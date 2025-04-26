@@ -1,4 +1,9 @@
-2025-04-25 21:44:08,533 - INFO - START ethical_guardrails =============================================
-2025-04-25 21:44:08,533 - INFO - START ethical_guardrails Start Time = 2025-04-25 21:44:08
-2025-04-25 21:44:08,534 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
-2025-04-25 21:44:08,534 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 15:36:28,591 - INFO - START ethical_guardrails =============================================
+2025-04-26 15:36:28,595 - INFO - START ethical_guardrails Start Time = 2025-04-26 15:36:28
+2025-04-26 15:36:28,595 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 15:36:28,595 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 15:36:30,262 - INFO - PERFORMANCE ethical_guardrails The total process duration was:1.67
+2025-04-26 15:36:30,262 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 15:36:30
+2025-04-26 15:36:30,262 - INFO - PERFORMANCE ethical_guardrails Short process duration less than 3 Seconds:1.67
+2025-04-26 15:36:30,263 - INFO - PERFORMANCE ethical_guardrails Performance optimization is not reccomended
+2025-04-26 15:36:30,263 - INFO - END ethical_guardrails =============================================

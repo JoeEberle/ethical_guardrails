@@ -110,3 +110,782 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-26 20:36:51,085 - INFO - START ethical_guardrails =============================================
+2025-04-26 20:36:51,085 - INFO - START ethical_guardrails Start Time = 2025-04-26 20:36:51
+2025-04-26 20:36:51,085 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 20:36:51,086 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 20:36:52,704 - INFO - PERFORMANCE ethical_guardrails The total process duration was:1.63
+2025-04-26 20:36:52,704 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 20:36:52
+2025-04-26 20:36:52,704 - INFO - PERFORMANCE ethical_guardrails Short process duration less than 3 Seconds:1.63
+2025-04-26 20:36:52,704 - INFO - PERFORMANCE ethical_guardrails Performance optimization is not reccomended
+2025-04-26 20:36:52,705 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-26 20:38:33,753 - INFO - START ethical_guardrails =============================================
+2025-04-26 20:38:33,753 - INFO - START ethical_guardrails Start Time = 2025-04-26 20:38:33
+2025-04-26 20:38:33,753 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 20:38:33,754 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 20:38:35,364 - INFO - PERFORMANCE ethical_guardrails The total process duration was:1.61
+2025-04-26 20:38:35,364 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 20:38:35
+2025-04-26 20:38:35,364 - INFO - PERFORMANCE ethical_guardrails Short process duration less than 3 Seconds:1.61
+2025-04-26 20:38:35,364 - INFO - PERFORMANCE ethical_guardrails Performance optimization is not reccomended
+2025-04-26 20:38:35,364 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-26 20:44:28,396 - INFO - START ethical_guardrails =============================================
+2025-04-26 20:44:28,396 - INFO - START ethical_guardrails Start Time = 2025-04-26 20:44:28
+2025-04-26 20:44:28,396 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 20:44:28,396 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 20:44:29,999 - INFO - PERFORMANCE ethical_guardrails The total process duration was:1.60
+2025-04-26 20:44:30,000 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 20:44:29
+2025-04-26 20:44:30,000 - INFO - PERFORMANCE ethical_guardrails Short process duration less than 3 Seconds:1.60
+2025-04-26 20:44:30,001 - INFO - PERFORMANCE ethical_guardrails Performance optimization is not reccomended
+2025-04-26 20:44:30,001 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-26 21:38:17,256 - INFO - START ethical_guardrails =============================================
+2025-04-26 21:38:17,261 - INFO - START ethical_guardrails Start Time = 2025-04-26 21:38:17
+2025-04-26 21:38:17,261 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 21:38:17,261 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 21:38:18,992 - INFO - PERFORMANCE ethical_guardrails The total process duration was:1.74
+2025-04-26 21:38:18,992 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 21:38:18
+2025-04-26 21:38:18,992 - INFO - PERFORMANCE ethical_guardrails Short process duration less than 3 Seconds:1.74
+2025-04-26 21:38:18,992 - INFO - PERFORMANCE ethical_guardrails Performance optimization is not reccomended
+2025-04-26 21:38:18,992 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-26 21:53:15,123 - INFO - START ethical_guardrails =============================================
+2025-04-26 21:53:15,123 - INFO - START ethical_guardrails Start Time = 2025-04-26 21:53:15
+2025-04-26 21:53:15,123 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 21:53:15,124 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 21:53:16,906 - INFO - PERFORMANCE ethical_guardrails The total process duration was:1.78
+2025-04-26 21:53:16,906 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 21:53:16
+2025-04-26 21:53:16,906 - INFO - PERFORMANCE ethical_guardrails Short process duration less than 3 Seconds:1.78
+2025-04-26 21:53:16,908 - INFO - PERFORMANCE ethical_guardrails Performance optimization is not reccomended
+2025-04-26 21:53:16,908 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-26 22:25:01,786 - INFO - START ethical_guardrails =============================================
+2025-04-26 22:25:01,786 - INFO - START ethical_guardrails Start Time = 2025-04-26 22:25:01
+2025-04-26 22:25:01,786 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 22:25:01,786 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 22:25:07,976 - INFO - nlp_engine not provided, creating default.
+2025-04-26 22:25:07,976 - WARNING - Model en_core_web_lg is not installed. Downloading...
+2025-04-26 22:27:19,178 - INFO - Finished downloading model en_core_web_lg
+2025-04-26 22:27:21,241 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-26 22:27:21,241 - INFO - registry not provided, creating default.
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: DateRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: IpRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:21,258 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:27:21,258 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-26 22:27:21,273 - INFO - nlp_engine not provided, creating default.
+2025-04-26 22:27:23,120 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-26 22:27:23,120 - INFO - registry not provided, creating default.
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-26 22:27:23,120 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: DateRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: IpRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:27:23,135 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:27:23,135 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-26 22:27:23,135 - INFO - Fetching all recognizers for language en
+2025-04-26 22:27:23,339 - INFO - PERFORMANCE ethical_guardrails The total process duration was:141.55
+2025-04-26 22:27:23,339 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 22:27:23
+2025-04-26 22:27:23,339 - INFO - PERFORMANCE ethical_guardrails Medium process duration greater than 3 minutes:141.55
+2025-04-26 22:27:23,339 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-26 22:27:23,339 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-26 22:29:19,186 - INFO - START ethical_guardrails =============================================
+2025-04-26 22:29:19,186 - INFO - START ethical_guardrails Start Time = 2025-04-26 22:29:19
+2025-04-26 22:29:19,187 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-26 22:29:19,187 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-26 22:29:25,776 - INFO - nlp_engine not provided, creating default.
+2025-04-26 22:29:27,807 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-26 22:29:27,808 - INFO - registry not provided, creating default.
+2025-04-26 22:29:27,818 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-26 22:29:27,819 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-26 22:29:27,820 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: DateRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-26 22:29:27,821 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-26 22:29:27,822 - INFO - Loaded recognizer: IpRecognizer
+2025-04-26 22:29:27,822 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-26 22:29:27,822 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-26 22:29:27,822 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-26 22:29:27,822 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:27,822 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:27,823 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:29:27,823 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-26 22:29:27,835 - INFO - nlp_engine not provided, creating default.
+2025-04-26 22:29:29,807 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-26 22:29:29,807 - INFO - registry not provided, creating default.
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: DateRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: IpRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-26 22:29:29,824 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-26 22:29:29,824 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-26 22:29:29,824 - INFO - Fetching all recognizers for language en
+2025-04-26 22:29:30,022 - INFO - PERFORMANCE ethical_guardrails The total process duration was:10.84
+2025-04-26 22:29:30,023 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-26 22:29:30
+2025-04-26 22:29:30,023 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:10.84
+2025-04-26 22:29:30,023 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-26 22:29:30,023 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-27 01:19:47,070 - INFO - START ethical_guardrails =============================================
+2025-04-27 01:19:47,070 - INFO - START ethical_guardrails Start Time = 2025-04-27 01:19:47
+2025-04-27 01:19:47,070 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-27 01:19:47,070 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-27 01:19:53,530 - INFO - nlp_engine not provided, creating default.
+2025-04-27 01:19:55,571 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-27 01:19:55,571 - INFO - registry not provided, creating default.
+2025-04-27 01:19:55,581 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-27 01:19:55,582 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-27 01:19:55,583 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-27 01:19:55,584 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-27 01:19:55,585 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-27 01:19:55,585 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-27 01:19:55,585 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-27 01:19:55,585 - INFO - Loaded recognizer: DateRecognizer
+2025-04-27 01:19:55,585 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-27 01:19:55,585 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-27 01:19:55,586 - INFO - Loaded recognizer: IpRecognizer
+2025-04-27 01:19:55,587 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-27 01:19:55,587 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-27 01:19:55,587 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-27 01:19:55,587 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:19:55,587 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:19:55,588 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-27 01:19:55,599 - INFO - Fetching all recognizers for language en
+2025-04-27 01:19:55,789 - INFO - PERFORMANCE ethical_guardrails The total process duration was:8.72
+2025-04-27 01:19:55,790 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-27 01:19:55
+2025-04-27 01:19:55,790 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:8.72
+2025-04-27 01:19:55,790 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-27 01:19:55,791 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-27 01:24:58,716 - INFO - START ethical_guardrails =============================================
+2025-04-27 01:24:58,718 - INFO - START ethical_guardrails Start Time = 2025-04-27 01:24:58
+2025-04-27 01:24:58,718 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-27 01:24:58,718 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-27 01:25:05,822 - INFO - nlp_engine not provided, creating default.
+2025-04-27 01:25:07,849 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-27 01:25:07,849 - INFO - registry not provided, creating default.
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-27 01:25:07,861 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-27 01:25:07,862 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-27 01:25:07,863 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: DateRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: IpRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-27 01:25:07,864 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-27 01:25:07,864 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:25:07,864 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:25:07,864 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:25:07,864 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:25:07,864 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:25:07,865 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:25:07,865 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:25:07,865 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:25:07,865 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:25:07,865 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:25:07,865 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:25:07,865 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-27 01:25:07,877 - INFO - Fetching all recognizers for language en
+2025-04-27 01:25:08,063 - INFO - PERFORMANCE ethical_guardrails The total process duration was:9.35
+2025-04-27 01:25:08,063 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-27 01:25:08
+2025-04-27 01:25:08,064 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:9.35
+2025-04-27 01:25:08,064 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-27 01:25:08,065 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-27 01:30:05,391 - INFO - START ethical_guardrails =============================================
+2025-04-27 01:30:05,391 - INFO - START ethical_guardrails Start Time = 2025-04-27 01:30:05
+2025-04-27 01:30:05,391 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-27 01:30:05,391 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-27 01:30:11,585 - INFO - nlp_engine not provided, creating default.
+2025-04-27 01:30:13,521 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-27 01:30:13,521 - INFO - registry not provided, creating default.
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-27 01:30:13,521 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: DateRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: IpRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:30:13,535 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:30:13,535 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-27 01:30:13,552 - INFO - Fetching all recognizers for language en
+2025-04-27 01:30:13,735 - INFO - PERFORMANCE ethical_guardrails The total process duration was:8.34
+2025-04-27 01:30:13,735 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-27 01:30:13
+2025-04-27 01:30:13,737 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:8.34
+2025-04-27 01:30:13,737 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-27 01:30:13,738 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-27 01:32:03,887 - INFO - START ethical_guardrails =============================================
+2025-04-27 01:32:03,887 - INFO - START ethical_guardrails Start Time = 2025-04-27 01:32:03
+2025-04-27 01:32:03,887 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-27 01:32:03,888 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-27 01:32:09,982 - INFO - nlp_engine not provided, creating default.
+2025-04-27 01:32:11,882 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-27 01:32:11,882 - INFO - registry not provided, creating default.
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: DateRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: IpRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:32:11,887 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:32:11,887 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-27 01:32:11,915 - INFO - Fetching all recognizers for language en
+2025-04-27 01:32:12,097 - INFO - PERFORMANCE ethical_guardrails The total process duration was:8.21
+2025-04-27 01:32:12,097 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-27 01:32:12
+2025-04-27 01:32:12,097 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:8.21
+2025-04-27 01:32:12,097 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-27 01:32:12,097 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-27 01:37:06,882 - INFO - START ethical_guardrails =============================================
+2025-04-27 01:37:06,882 - INFO - START ethical_guardrails Start Time = 2025-04-27 01:37:06
+2025-04-27 01:37:06,882 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-27 01:37:06,883 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-27 01:37:14,183 - INFO - nlp_engine not provided, creating default.
+2025-04-27 01:37:16,510 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-27 01:37:16,511 - INFO - registry not provided, creating default.
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: DateRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: IpRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:37:16,519 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:37:16,519 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-27 01:37:16,539 - INFO - Fetching all recognizers for language en
+2025-04-27 01:37:16,733 - INFO - PERFORMANCE ethical_guardrails The total process duration was:9.85
+2025-04-27 01:37:16,734 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-27 01:37:16
+2025-04-27 01:37:16,734 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:9.85
+2025-04-27 01:37:16,734 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-27 01:37:16,734 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-27 01:45:37,909 - INFO - START ethical_guardrails =============================================
+2025-04-27 01:45:37,909 - INFO - START ethical_guardrails Start Time = 2025-04-27 01:45:37
+2025-04-27 01:45:37,910 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-27 01:45:37,910 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-27 01:45:44,001 - INFO - nlp_engine not provided, creating default.
+2025-04-27 01:45:46,100 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-27 01:45:46,100 - INFO - registry not provided, creating default.
+2025-04-27 01:45:46,122 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:45:46,122 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:45:46,122 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:45:46,122 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-27 01:45:46,123 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-27 01:45:46,124 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: DateRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: IpRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-27 01:45:46,125 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-27 01:45:46,126 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-27 01:45:46,126 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:45:46,126 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:45:46,126 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-27 01:45:46,138 - INFO - Fetching all recognizers for language en
+2025-04-27 01:45:46,318 - INFO - PERFORMANCE ethical_guardrails The total process duration was:8.41
+2025-04-27 01:45:46,318 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-27 01:45:46
+2025-04-27 01:45:46,323 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:8.41
+2025-04-27 01:45:46,323 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-27 01:45:46,323 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-04-27 01:47:54,438 - INFO - START ethical_guardrails =============================================
+2025-04-27 01:47:54,438 - INFO - START ethical_guardrails Start Time = 2025-04-27 01:47:54
+2025-04-27 01:47:54,438 - INFO - ethical_guardrails Step 0 - Initialize the configuration file parser
+2025-04-27 01:47:54,438 - INFO - Process ethical_guardrails Step 0 - Initializing and starting Logging Process.
+2025-04-27 01:48:00,573 - INFO - nlp_engine not provided, creating default.
+2025-04-27 01:48:02,747 - INFO - Created NLP engine: spacy. Loaded models: ['en']
+2025-04-27 01:48:02,747 - INFO - registry not provided, creating default.
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: CreditCardRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: UsBankRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: UsLicenseRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: UsItinRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: UsPassportRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: UsSsnRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: NhsRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: UkNinoRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: SgFinRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: AuAbnRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: AuAcnRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: AuTfnRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: AuMedicareRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: InPanRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: InAadhaarRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: InVehicleRegistrationRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: InPassportRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: EsNifRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: EsNieRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: ItDriverLicenseRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: ItFiscalCodeRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: ItVatCodeRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: ItIdentityCardRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: ItPassportRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: PlPeselRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: CryptoRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: DateRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: EmailRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: IbanRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: IpRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: MedicalLicenseRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: PhoneRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: UrlRecognizer
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: InVoterRecognizer
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - CreditCardRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNifRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - EsNieRecognizer supported languages: es, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - ItDriverLicenseRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - ItFiscalCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - ItVatCodeRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - ItIdentityCardRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - ItPassportRecognizer supported languages: it, registry supported languages: en
+2025-04-27 01:48:02,763 - WARNING - Recognizer not added to registry because language is not supported by registry - PlPeselRecognizer supported languages: pl, registry supported languages: en
+2025-04-27 01:48:02,763 - INFO - Loaded recognizer: SpacyRecognizer
+2025-04-27 01:48:02,782 - INFO - Fetching all recognizers for language en
+2025-04-27 01:48:02,984 - INFO - PERFORMANCE ethical_guardrails The total process duration was:8.55
+2025-04-27 01:48:02,984 - INFO - PERFORMANCE ethical_guardrails Stop Time = 2025-04-27 01:48:02
+2025-04-27 01:48:02,985 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:8.55
+2025-04-27 01:48:02,985 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
+2025-04-27 01:48:02,985 - INFO - END ethical_guardrails =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        

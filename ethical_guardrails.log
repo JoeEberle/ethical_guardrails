@@ -60,3 +60,4 @@
 2025-04-27 01:48:02,985 - INFO - PERFORMANCE ethical_guardrails Low process duration less than 3 minutes:8.55
 2025-04-27 01:48:02,985 - INFO - PERFORMANCE ethical_guardrails Performance optimization is optional
 2025-04-27 01:48:02,985 - INFO - END ethical_guardrails =============================================
+2025-04-27 01:48:23,889 - INFO - Fetching all recognizers for language en

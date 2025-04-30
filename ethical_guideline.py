@@ -48,7 +48,6 @@ def get_ethical_guideline(question: str) -> dict:
     hostility_class, hostility_score, hostility_confidence, hostility_evidence = dtc.hostility_classifier(question)
     sexism_class, sexism_score, sexism_confidence, sexism_evidence = dtc.sexism_classifier(question)
     racism_class, racism_score, racism_confidence, racism_evidence = dtc.racism_classifier(question)
-    phi_class, phi_score, phi_confidence, phi_evidence = dtc.phi_classifier(question)    
     il_class, il_score, il_confidence, il_evidence = dtc.innapropriate_language_classifier(question)
     pm_class,pm_score,pm_confidence,pm_evidence = dtc.practicing_medicine_classifier(question)
     phi_class,phi_score,phi_confidence,phi_evidence = dtc.phi_classifier(question)

@@ -339,7 +339,7 @@ def practicing_medicine_classifier(text, use_fuzzy=False, use_stemming=False):
     return classify_text(text, PRACTICING_MEDICINE_KEYWORDS, use_fuzzy, use_stemming )
     
 def phi_classifier(text, use_fuzzy=False, use_stemming=False):
-    return "unknown PHI", 0, 0.0, ""
+    return  classify_text(text, PHI_KEYWORDS, use_fuzzy, use_stemming )
 
 def test_domain_topic_classifier(sample_sentence):
     print(f"Text: {sample_sentence}")

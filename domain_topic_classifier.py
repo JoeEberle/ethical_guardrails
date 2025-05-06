@@ -40,7 +40,8 @@ DOMAIN_KEYWORDS = {
         "blood transfusion", "intubation", "ventilation", "physical therapy",        
 
         # Addictions / abuse
-        "smoking", "vape", "vaping", "alcohol", "drinking", "addict", "addicted", "overdose", "opiod", "crack", "smoker", "alcoholic","smokers", "smoke", 
+        "smoking", "vape", "vaping", "alcohol", "drinking", "addict", "addicted", "overdose", "opiod", "crack", "smoker", "alcoholic"
+        ,"smokers", "smoke", "smokes",  "cigarette", "marijuana",
 
         # behavioral
         "depression", "anxiety", "sleepless", "worry", "depressed", "stressed", "anxious", "nervous", "sad", "lonely", "alone", "suicide", "self harm", 
@@ -109,6 +110,7 @@ TOPIC_KEYWORDS = {
     "condition": {"pregnancy", "smoking", "addicted", "addict","addicted"},
     "epidemiology": {"incedence", "prevalence", "rate of disease", "pandemic","epidemic","how many cases"},    
     "health_columns": {"research_id", "race_level_1", "race_level_2", "ethnicity","adi_state","adi_national"},  
+    "smoking": {"smoker", "smoke", "smokes", "vape","toke","marijuana"},      
     "health_columns2": {"asthma", "diabetes", "diabetes_poor_control", "hba1c_result","prediabetes","hypertension"}, 
     "health_columns3": {"tobacco", "breast_cancer_screening", "colorectal_cancer_screening", "cervical_cancer_screening","prediabetes","sex"},      
     "health": {"wny_health", "health", "wny health", "health_care",  "health care",  "health",  "wny"  ,  "care" , "treatment" , "treat"},  
@@ -405,6 +407,9 @@ def get_sample_questions():
         "My nephew was just diagnosed with autism."
     ]
     return sentences
+
+
+
 
 def run_domain_topic_sample_test():
     sample_sentences = get_sample_questions()

@@ -12,7 +12,7 @@
 
 These guardrails are continuously evolving to align with emerging ethical standards, legal requirements, and community values — supporting safe, inclusive, and responsible AI use.
 
-![Image](guard_rail.png)
+![Image](sample.png)
 
 
 
@@ -43,7 +43,7 @@ These guardrails are continuously evolving to align with emerging ethical standa
 
 
 
-![Image](sample.png)
+![Image](guard_rail.png)
 
 
 
